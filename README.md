@@ -4,7 +4,7 @@
 **CrisJk/CrisJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔥 Thank you for reading our latest work on [LLM red team](https://github.com/NJUNLP/ReNeLLM).
+- 🔥 Our latest work on [LLM red team](https://github.com/NJUNLP/ReNeLLM) is released!
 
 - 💼 I'm currently working at Meituan as a LLM algorithm engineer. 
 - 🏫 I finished my M.S. at East China Normal University, School of Data Science and Engineering.
