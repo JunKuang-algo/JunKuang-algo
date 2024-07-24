@@ -4,6 +4,7 @@
 **CrisJk/CrisJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- 🎉 Our work on hallucination of MLLM [Hallu-PI](https://openreview.net/forum?id=BWGqgBVJsa) is accepted by ACM MM 2024!
 - 🎉 Our latest work on [LLM red team](https://github.com/NJUNLP/ReNeLLM) is accepted by NAACL 2024!
 
 - 💼 I'm currently working at Meituan as a LLM algorithm engineer. 
